@@ -1,0 +1,5 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+carb:255,255,255::
+meat:250,50,83::
+vegetable:36,179,83::
